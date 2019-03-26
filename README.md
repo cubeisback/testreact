@@ -13,3 +13,5 @@ OHDESIGN Test 2
 
     1. В корневом каталоге ***testreact*** запустить сервер - nodemon index
     2. В папке client запустить приложение - npm start
+
+![result](http://webdesign.ru.net/images/Heydon_min.jpg)
