@@ -13,3 +13,6 @@ OHDESIGN Test 2
 
     1. В корневом каталоге ***testreact*** запустить сервер - nodemon index
     2. В папке client запустить приложение - npm start
+
+По адресу [http://localhost:3000/](http://localhost:3000/) откроется само приложение.
+По адресу [http://localhost:4000/api/brands/](http://localhost:4000/api/brands/) выводится БД в json.
